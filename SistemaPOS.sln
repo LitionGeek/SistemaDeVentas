@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaPos", "Sistema Pos\SistemaPos.csproj", "{59E0EBF8-2C67-462D-B6FF-5EFCDFBD3F16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaDLL", "LibreriaDLL\LibreriaDLL.csproj", "{E7D153B3-6981-4A38-A811-4C93F14AE207}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{B4DB1D30-B37E-4D20-A5DD-5B3D0B15016C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59E0EBF8-2C67-462D-B6FF-5EFCDFBD3F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E0EBF8-2C67-462D-B6FF-5EFCDFBD3F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E0EBF8-2C67-462D-B6FF-5EFCDFBD3F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E0EBF8-2C67-462D-B6FF-5EFCDFBD3F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D153B3-6981-4A38-A811-4C93F14AE207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D153B3-6981-4A38-A811-4C93F14AE207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D153B3-6981-4A38-A811-4C93F14AE207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D153B3-6981-4A38-A811-4C93F14AE207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DB1D30-B37E-4D20-A5DD-5B3D0B15016C}.Debug|Any CPU.ActiveCfg = Debug
+		{B4DB1D30-B37E-4D20-A5DD-5B3D0B15016C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4F199FE-0464-4224-971D-7358807B2994}
+	EndGlobalSection
+EndGlobal
